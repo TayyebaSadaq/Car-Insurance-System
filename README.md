@@ -1,5 +1,5 @@
 # 🚗 Car-Insurance-System
-This is a project from my second year - second semester in Application development
+This is a project from my second year - second semester in Application development.
 The task was a innovative web portal that provides a dashboard to facilitate effective administration of client information. 
 
 ## 🗃️ Interactive Data Management Dashboard
